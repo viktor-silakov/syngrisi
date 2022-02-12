@@ -80,6 +80,6 @@
         "eslint-config-airbnb-base": "^14.1.0",
         "eslint-plugin-import": "^2.20.2",
         "form-data": "^4.0.0",
-        "node-fetch": "^2.6.1"
+        "node-fetch": "^2.6.7"
     }
 }
