@@ -64,7 +64,7 @@
         "http-status": "^1.5.2",
         "inquirer": "^8.2.4",
         "moment": "^2.25.3",
-        "mongoose": "^6.1.3",
+        "mongoose": "^6.4.6",
         "node-libpng": "^0.2.16",
         "nodejs-resemble": "^0.3.0",
         "nodemon": "^2.0.15",
