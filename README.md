@@ -1,3 +1,11 @@
+> ## ⚠️ This repository has moved!
+> 
+> **This project is now available at: [https://github.com/syngrisi/syngrisi](https://github.com/syngrisi/syngrisi)**
+> 
+> Please use the new repository for the latest updates, issues, and contributions.
+
+---
+
 # Syngrisi - Visual Testing Tool
 
 Syngrisi helps to implement Automated Visual Regression Testing along with your new or existing Test Automation Kit, it
